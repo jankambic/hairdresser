@@ -1,0 +1,19 @@
+.carousel-inner img {
+  margin: auto;
+}
+
+.okvir {
+  border: 2px black solid;
+}
+
+.glyphicon {
+  float: right;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.navbar-header {
+  font-family: cursive;
+}
